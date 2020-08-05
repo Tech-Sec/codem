@@ -4,6 +4,7 @@ CODEM is a project which can be used for generating QR codes or Barcodes for any
  <strong>To get started </strong>
 <br>
   Change your command line directory to codem
+<br>
   <strong>cd codem</strong>
 <br>
   Install the required dependencies
