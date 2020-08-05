@@ -9,6 +9,7 @@ CODEM is a project which can be used for generating QR codes or Barcodes for any
   <strong>cd codem</strong>
 <p>
   Install the required dependencies
+ <br>
 <strong>pip install -r requirements.txt </strong>
 </p>
 <br>
